@@ -25,10 +25,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<h3>1) Intake</h3>
 <p>
-If you haven't yet, archive the "Maintenance" department so that tickets don't get sent there. To do this Go to Admin Panel -> Agents -> Departments, then click on the Maintenance department. Then under "Status", click "Archived".
+NOTE: If you haven't yet, archive the "Maintenance" department so that tickets don't get sent there. To do this go to Admin Panel -> Agents -> Departments, then click on the "Maintenance" department. Then under "Status", click "Archived". Then scroll to the bottom of the page and click "Save Changes".
 </p>
+
+<h3>1) Intake</h3>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
