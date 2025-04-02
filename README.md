@@ -26,11 +26,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-NOTE: If you haven't yet, archive the "Maintenance" department so that tickets don't get sent there. To do this go to Admin Panel -> Agents -> Departments, then click on the "Maintenance" department. Then under "Status", click "Archived". Then scroll to the bottom of the page and click "Save Changes".
+NOTE: If you haven't yet, delete the "Maintenance" department so that tickets don't get sent there. To do this go to Admin Panel -> Agents -> Departments, then make sure "Maintenance" is checked. Click "More" on the right side of the screen to see a drop-down list, then click "Delete".
 </p>
-
+<p>
+<img src="https://i.imgur.com/MiWb8hU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <h3>1) Intake</h3>
-
+<p>
+This is the first stage of the ticket lifestyle.
+  - An end user that needs help will create a support ticket (in this scenario, the entire mobile/online banking system is down).
+  - NOTE: 
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
