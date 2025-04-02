@@ -31,29 +31,52 @@ NOTE: If you haven't yet, delete the "Maintenance" department so that tickets do
 <p>
 <img src="https://i.imgur.com/MiWb8hU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <h3>1) Intake</h3>
 <p>
-This is the first stage of the ticket lifestyle.
-  - An end user that needs help will create a support ticket (in this scenario, the entire mobile/online banking system is down).
-  - NOTE: 
+
+- An end user creates a ticket (in this case the entire mobile/online banking system is down)
+  - NOTE: in some cases, you the agent will create the ticket on the user's behalf.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v9K03Nt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<h3>2) Assignment and Communication</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+- The Support Agent logs in to see if there are any open tickets 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/cj4eCDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+- The Support Agent then reads the ticket and addresses the issue
+- If the ticket is unclear on the severity of the issue, the support agent will then contact the user for clarification so they can make a more informed decision on how to proceed
+- The Support Agent will then update the SLA depending on the severity, then will assign the ticket to either himself, another agent, or department to solve the issue
+</p>
+<p>
+<img src="https://i.imgur.com/Bc6MbDu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<h3>3) Working the Issue</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- While working the issue, the person the ticket is assigned to (in this case, the SysAdmin) should be constantly providing updates about troubleshooting and any new information about the issue at hand.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/mSRAcZE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<h3>4) Resolution</h3>
+<p>
+  
+- At this point, the person working the ticket has addressed the issue and implemented a solution
+- The assignee will then confirm with the user that the issue has been resolved
+- If the first solution does not work, then the assignee will continue troubleshooting and working to resolve the issue
+- Once the solution works, the assignee will document any details that have not been noted, then will change the ticket's status to "Closed".
+</p>
+<img src="https://i.imgur.com/Dj1BFZN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
